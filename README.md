@@ -6,4 +6,4 @@
 
 Notebook complet et commenté ci-dessous :
 
-http://localhost:8888/lab/tree/OCR/Projet2/projet2.ipynb
+https://github.com/CelineLesur/OCR_IAEngineer_Projet3/blob/main/projet3.ipynb
