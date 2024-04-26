@@ -6,4 +6,4 @@
 
 Notebook complet et commenté ci-dessous :
 
-https://github.com/CelineLesur/OCR_IAEngineer_Projet3/blob/main/projet3.ipynb
+https://github.com/CelineLesur/OCR_IAEngineer_Projet3/blob/main/projet3-final.ipynb
